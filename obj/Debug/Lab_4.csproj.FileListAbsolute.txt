@@ -1,0 +1,9 @@
+C:\Users\Eva\source\repos\Lab_4\bin\Debug\Lab_4.exe.config
+C:\Users\Eva\source\repos\Lab_4\bin\Debug\Lab_4.exe
+C:\Users\Eva\source\repos\Lab_4\bin\Debug\Lab_4.pdb
+C:\Users\Eva\source\repos\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+C:\Users\Eva\source\repos\Lab_4\obj\Debug\Lab_4.Form1.resources
+C:\Users\Eva\source\repos\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\Eva\source\repos\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+C:\Users\Eva\source\repos\Lab_4\obj\Debug\Lab_4.exe
+C:\Users\Eva\source\repos\Lab_4\obj\Debug\Lab_4.pdb
