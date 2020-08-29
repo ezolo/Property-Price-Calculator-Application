@@ -1,2 +1,2 @@
 # Property-Price-Calculator-Application
-The following application is a property price calculator.
+The following application is a property price calculator. Users will be able to choose their property type, county, and sales date. After this information is selected and the user inputs their property price, the calculator will calculate the state sales tax, county sales tax, commission, and, of course, the total price. When the user is done with inputting their information, they will be prompted to save their data and close out of the program. 
