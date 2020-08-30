@@ -35,4 +35,4 @@
 > If the user has finished using the program and/or is ready to leave the program, they will be able to click the exit button at the bottom of the main screen which will automatically exit the user from the program.
 
 ## 😃 Thank you for viewing my application ##
-> I hope you enjoyed the little walk through of the Sleep Inn Form. If you have any questions and/or concerns let me know! Don't forget to leave a star⭐️.
+> I hope you enjoyed the little walk through of the Property Price Calculator Application. If you have any questions and/or concerns let me know! Don't forget to leave a star⭐️.
